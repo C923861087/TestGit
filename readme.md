@@ -4,5 +4,5 @@ readme
 
 add cur version is v1.1
 
-this is dev branch
+this is master branch
 
