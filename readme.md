@@ -1,6 +1,6 @@
 git for test
 
-readme
+readme fix bug
 
 add cur version is v1.1
 
