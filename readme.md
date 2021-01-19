@@ -4,7 +4,7 @@ readme
 
 add cur version is v1.1
 
-this is master branch
+this is fix bug step!
 
 this is master branch test!
 
